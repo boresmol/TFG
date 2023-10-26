@@ -14,6 +14,6 @@ Conclusiones que destacan la importancia de la gestión de datos en proyectos si
 Borja Esteve - Investigador y desarrollador principal
 
 ## Contacto
-Estoy emocionado por lo que el futuro tiene reservado y cómo esta investigación puede contribuir al avance de la teledetección y la monitorización del entorno terrestre y marítimo. Si deseas saber más sobre mi proyecto o tienes alguna pregunta, ¡no dudes en contactarme!
+Estoy emocionado por lo que el futuro tiene reservado y cómo esta investigación puede contribuir al avance de la teledetección y la monitorización del entorno terrestre y marítimo. Si deseas saber más sobre mi proyecto o tienes alguna pregunta, ¡no dudes en contactarme por [Linkedin](https://www.linkedin.com/in/borja-esteve-data-scientist/)!
 
-[Linkedin](https://www.linkedin.com/in/borja-esteve-data-scientist/)
+
